@@ -7,3 +7,14 @@ overcome this, we will create an IOT based ticketing system. The purpose of this
 passenger using the IR sensor and automatically calculate the distance traveled by the passenger using the GPS 
 sensor, and the corresponding amount is debited from the RFID card.
 
+# DAIRY-MANAGEMENT-SYSTEM
+This project contains different Modules like,
+
+Login module.
+Farmer Details Module.
+Staff Details Module.
+Dairy Animal Details .
+Daily Data entry Module.
+Bill Module .
+Dairy Products Module .
+It Contains a Home 
